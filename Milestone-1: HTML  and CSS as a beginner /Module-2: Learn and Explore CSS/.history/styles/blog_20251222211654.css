@@ -1,0 +1,11 @@
+h3{
+    font-size: 30px ;
+    text-decoration: overline;
+}
+.second{
+    /* display: none ; */
+    /* visibility: hidden; */
+}
+.blog{
+    box-shadow: 5px 5px rgb(70, 75, 81);
+}
