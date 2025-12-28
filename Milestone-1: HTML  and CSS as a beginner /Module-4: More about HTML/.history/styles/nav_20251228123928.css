@@ -18,10 +18,5 @@ nav li a {
 /* nested menu styles */
 nav li .dropdown{
     display: none;
-    position: absolute;
-    background-color: lightyellow;
-    padding-left: 10px;
 }
-nav li:hover > .dropdown{
-    display: block;
-}
+nav li:h
