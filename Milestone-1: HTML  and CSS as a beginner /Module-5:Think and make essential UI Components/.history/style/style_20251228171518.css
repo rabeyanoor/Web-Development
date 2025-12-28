@@ -1,0 +1,11 @@
+.parent{
+    padding: 25px;
+    background-color: blanchedalmond;
+}
+.child{
+    border: 2px solid palevioletred;
+    background-color: palegreen;
+    padding: 20px;
+    font-size: 18px;
+    
+}
