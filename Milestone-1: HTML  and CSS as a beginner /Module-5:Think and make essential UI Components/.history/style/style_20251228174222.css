@@ -5,8 +5,7 @@
     gap: 30px;
     justify-content: space-around;
     align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: row-reverse;
 }
 .child{
     border: 2px solid palevioletred;

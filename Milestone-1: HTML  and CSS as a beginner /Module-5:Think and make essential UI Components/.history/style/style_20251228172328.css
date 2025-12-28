@@ -3,16 +3,13 @@
     background-color: blanchedalmond;
     display: flex;
     gap: 30px;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+    ju
 }
 .child{
     border: 2px solid palevioletred;
     background-color: palegreen;
     padding: 20px;
     font-size: 28px;
-    
+    margin: 10px 0;
     
 }
