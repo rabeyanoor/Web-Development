@@ -3,7 +3,7 @@ var onionPrice = 20;
 
 // console.log(eggPrice + onionPrice);
 // console.log(onionPrice - eggPrice);
-// console.log(onionPrice * eggPrice); // 20 * 10
+// console.log(onionPrice * eggPrice); // 20 * 10 
 // console.log(onionPrice / eggPrice);
 
 console.log(10 / 3);
@@ -24,3 +24,4 @@ var newPrice = price + 50;
 
 var discountedPrice = newPrice - 10;
 console.log(discountedPrice);
+

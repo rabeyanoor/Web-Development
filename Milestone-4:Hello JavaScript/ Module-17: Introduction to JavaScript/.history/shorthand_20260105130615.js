@@ -14,3 +14,5 @@ var orangePrice = 30;
 orangePrice *= 3;
 console.log(orangePrice);
 
+//\\
+

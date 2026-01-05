@@ -1,7 +1,7 @@
 // String
 var name = "Sadar Uddin";
 var address = "Adar killa bandorban with Some katabon";
-var country = "Bangladesh";
+var country = 'Bangladesh';
 
 // boolean
 var isRich = true;
