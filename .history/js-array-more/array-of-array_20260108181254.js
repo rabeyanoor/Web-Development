@@ -20,5 +20,3 @@ exam_marks[1].push(44)
 for(const marks of exam_marks){
     console.log(marks)
 }
-// in = index / key
-// of = value

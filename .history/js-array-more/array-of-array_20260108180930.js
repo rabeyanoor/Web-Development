@@ -17,8 +17,6 @@ exam_marks[1].pop()
 exam_marks[1].push(44)
 
 // console.log(exam_marks)
-for(const marks of exam_marks){
+for(const marks  einxam_marks){
     console.log(marks)
 }
-// in = index / key
-// of = value
