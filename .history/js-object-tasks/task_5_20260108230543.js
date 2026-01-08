@@ -5,5 +5,5 @@ let myObject = {
   isStudent: true,
 };
 for (let key in myObject){
-    console.log(`key: ${key} | type: ${typeof myObject[key]}`);
+    console.log("key: ${key} | type: $")
 }
