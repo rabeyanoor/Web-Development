@@ -7,12 +7,9 @@ li.innerText = "pahartoli bon";
 // 3. add the child
 placesList.appendChild(li);
 
-// -----------------------------
-// first rules
-
 // 1. where to add 
 const mainContainer = document.getElementById("main-container");
-// console.log(mainContainer)
+cons
 
 // 2. what to be added
 const section = document.createElement("section");
@@ -36,8 +33,6 @@ ul.appendChild(li3);
 section.appendChild(ul);
 
 mainContainer.appendChild(section);
-
-// second rules (same)
 
 // set innerHTML directly
 const sectionDress = document.createElement("section");

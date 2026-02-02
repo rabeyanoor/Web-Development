@@ -37,7 +37,7 @@ section.appendChild(ul);
 
 mainContainer.appendChild(section);
 
-// second rules (same)
+?
 
 // set innerHTML directly
 const sectionDress = document.createElement("section");

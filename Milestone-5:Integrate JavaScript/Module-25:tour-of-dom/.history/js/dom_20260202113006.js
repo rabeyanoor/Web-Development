@@ -8,4 +8,4 @@ placesContainer
 placesContainer.childNodes
 placesContainer.firstChild
 placesContainer.childNodes[3]
-placesContainer.childNodes[3].childNodes[5].nextSibling
+placesContainer.childNodes[3].childNodes[5].next

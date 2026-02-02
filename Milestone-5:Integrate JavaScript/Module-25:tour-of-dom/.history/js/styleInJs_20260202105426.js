@@ -19,4 +19,4 @@ document.getElementById("fruits-title").style.backgroundColor = "yellow";
 document.getElementById("fruits-title").style.textAlign = "center";
 
 const title = document.getElementById("fruits-title");
-title.setAttribute("title", "tooltip set by JavaScript")
+title.setAttribute("title", "tooltip set by JavaScript");

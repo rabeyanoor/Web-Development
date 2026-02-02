@@ -1,8 +1,6 @@
 document.getElementsByTagName('fruits-container')
 document.getElementsByTagName('fruits-container')[0]
 document.getElementsByTagName('fruits-container')[0].innerHTML
-// set innerHTML
-document.getElementsByTagName('fruits-container')[0].innerHTML='<h2>ABC wow DOM is changing</h2>'
 
 
 const main = document.getElementById('main-container');
