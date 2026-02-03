@@ -21,7 +21,13 @@
     <button id="btn-make-purple">Make Purple</button>
 
     <script>
-     
+      const btnMakePurple = document.getElementById("btn-make-purple");
+    //   console.log(btnMakePurple);
+    btnMakePurple.onclick=makePurple;
+    function makePurple(){
+        document.body.style.backgroundColor='purple'
+
+    }
     </script>
     <script src="js/events.js"></script>
   </body>

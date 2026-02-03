@@ -18,10 +18,3 @@ btnMakeBlue.onclick = function makeBlue() {
 };
 
 // option 4: different version
-
-const btnMakePurple = document.getElementById("btn-make-purple");
-//   console.log(btnMakePurple);
-btnMakePurple.onclick = makePurple;
-function makePurple() {
-  document.body.style.backgroundColor = "purple";
-}
