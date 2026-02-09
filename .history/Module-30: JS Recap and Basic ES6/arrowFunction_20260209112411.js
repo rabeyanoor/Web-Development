@@ -34,18 +34,10 @@
     
 //     return num1 + num2;
 // }
-// sum(10,30)
-
-
+// // sum(10,30)
 // const sum2 = (num1, num2) => {
 //     return num1+num2
 // }
-// console.log(sum(10,20))
-
-
-
-// const sum2 = (num1, num2) =>  num1+num2;
-// console.log(sum(10,20))
 
 
 const test = () => console.log("hello empty");
