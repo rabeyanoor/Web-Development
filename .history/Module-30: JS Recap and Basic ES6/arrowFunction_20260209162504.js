@@ -54,9 +54,7 @@ sum(10,30)
 // const square = x => x * x;
 //console.log(square(10))
 
-// const square = x =>{
-//      return x * x;
-//}
+// const square = x =>{ x * x;
 //console.log(square(10))
 
 // const sum = (num1, num2) => num1 + num2;

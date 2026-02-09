@@ -31,7 +31,7 @@
 
 
 function sum(num1, num2) {
-       console.log(arguments)
+       console.log(argument)
     return num1 + num2;
 }
 sum(10,30)
@@ -49,15 +49,8 @@ sum(10,30)
 
 
 // const test = () => console.log("hello empty");
-//test()
 
 // const square = x => x * x;
-//console.log(square(10))
-
-// const square = x =>{
-//      return x * x;
-//}
-//console.log(square(10))
 
 // const sum = (num1, num2) => num1 + num2;
 

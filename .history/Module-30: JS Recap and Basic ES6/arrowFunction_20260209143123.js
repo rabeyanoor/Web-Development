@@ -30,11 +30,11 @@
 
 
 
-function sum(num1, num2) {
-       console.log(arguments)
-    return num1 + num2;
-}
-sum(10,30)
+// function sum(num1, num2) {
+        co
+//     return num1 + num2;
+// }
+// sum(10,30)
 
 
 // const sum2 = (num1, num2) => {
@@ -48,18 +48,11 @@ sum(10,30)
 // console.log(sum(10,20))
 
 
-// const test = () => console.log("hello empty");
-//test()
+const test = () => console.log("hello empty");
 
-// const square = x => x * x;
-//console.log(square(10))
+const square = x => x * x;
 
-// const square = x =>{
-//      return x * x;
-//}
-//console.log(square(10))
-
-// const sum = (num1, num2) => num1 + num2;
+const sum = (num1, num2) => num1 + num2;
 
 
 
