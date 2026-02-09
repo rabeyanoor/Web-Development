@@ -17,18 +17,11 @@
 // person.status = "not found";
 // console.log(person)
 
-
-
-
 // const person = {
 //     name: "hena",
 //     age: 10,
 //     country:"BD"
 // }
-for (let key in person){
-    console.log(key)
-}
-
 // console.log(person["name"])
 
 // for (let key in person) {

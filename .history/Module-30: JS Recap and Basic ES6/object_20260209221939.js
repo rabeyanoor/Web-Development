@@ -25,9 +25,7 @@
 //     age: 10,
 //     country:"BD"
 // }
-for (let key in person){
-    console.log(key)
-}
+for (let key in person){}
 
 // console.log(person["name"])
 

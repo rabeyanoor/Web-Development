@@ -26,7 +26,7 @@
 //     country:"BD"
 // }
 for (let key in person){
-    console.log(key)
+    cons
 }
 
 // console.log(person["name"])
