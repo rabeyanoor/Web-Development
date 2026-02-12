@@ -31,7 +31,6 @@ class Cat extends Animal {
     }
 }
 
-
 class Bird extends Animal{
     constructor(name, species, age) {
         super(name, age)
@@ -46,7 +45,6 @@ class Bird extends Animal{
 const dog1 = new Dog('coffee', 'Deshi', 1)
 dog1.eat()
 console.log(dog1)
-
 
 // const cat1 = new Cat('SP', 'white', 5)
 // cat1.eat()

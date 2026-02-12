@@ -31,7 +31,6 @@ class Cat extends Animal {
     }
 }
 
-
 class Bird extends Animal{
     constructor(name, species, age) {
         super(name, age)
