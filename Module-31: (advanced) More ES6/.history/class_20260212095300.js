@@ -30,7 +30,7 @@ iphone.details()
 
 const xiaomi=new Product("rerme",1000,"xiaomi","jani",'na')
 console.log(xiaomi)
-xiaomi.details()
+xiaomi.details
 
 
 

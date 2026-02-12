@@ -6,15 +6,11 @@ class Product{
 
         this.name=name;
         this.price=price;
-        this.brandName=brand;
+        
     }
 
     details(){
-        // console.log("ami details")
-        // console.log("ami details",this.name)
-        console.log(`ami ${this.name} product er details`)
-
-
+        console.log("ami details")
     }
 }
 
@@ -22,15 +18,7 @@ class Product{
 // console.log(iphone.details)
 
 
-const iphone= new Product("iphone","1234","apple");
-console.log(iphone)
-iphone.details()
-
-
-
-const xiaomi=new Product("rerme",1000,"xiaomi","jani",'na')
-console.log(xiaomi)
-xiaomi.details()
+const inphone= new Product("iphone","1234","apple");
 
 
 
