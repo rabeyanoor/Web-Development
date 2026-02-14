@@ -1,0 +1,21 @@
+
+// object
+const person={
+    name:"hena",
+    age:10,
+    friends:["hero alom","kamal"]
+}
+// json -->> JavaScript Object Notation
+
+
+// object k json  a convert
+const newPerson=JSON.stringify(person);
+console.log(newPerson);
+
+console.log(typeof(person))
+console.log(typeof(newPerson))
+
+
+//json k abar object a convert
+const newPerson2=JSON.parse(newPerson);
+console.log(newPerson2);
